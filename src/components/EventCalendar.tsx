@@ -2,6 +2,7 @@
 
 import Image from "next/image";
 import { useState } from "react";
+// @ts-ignore
 import Calendar from "react-calendar";
 import "react-calendar/dist/Calendar.css";
 
